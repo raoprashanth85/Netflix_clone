@@ -21,3 +21,6 @@ Welcome to our Netflix Clone Page! This platform is a replica of the popular str
 - **Frontend**: [HTML , CSS]
 
 
+
+https://github.com/raoprashanth85/Netflix_clone/assets/163169359/af7b0580-ec4c-4030-809c-f32c24eab4ea
+
